@@ -102,7 +102,7 @@ df2['Governorate'] = df2['Governorate'].replace({
 
 ## 🖼️ Dashboard Preview
 Check out the interactive dashboard in action!  
-[Interactive Dashboard Video](link-to-video)
+[Interactive Dashboard Video](https://www.linkedin.com/posts/mohamedalqmash_storytelling-python-datacleaning-activity-7271896531954245632-_r8z?utm_source=share&utm_medium=member_desktop)
 
 **Description**:  
 This video demonstrates how the Power BI dashboard provides interactive visualizations of key performance indicators (KPIs), allowing users to explore the data based on geographic locations, participant insights, and more. The dashboard is designed for easy navigation and provides actionable insights for decision-making.
